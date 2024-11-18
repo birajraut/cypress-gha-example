@@ -58,4 +58,4 @@ jobs:
       - name: Cypress run
         uses: cypress-io/github-action@v6
         with:
-          spec: cypress/e2e/test.cy.js
+          spec: cypress/e2e/1-getting-started/test.cy.js
